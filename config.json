@@ -1,0 +1,29 @@
+{
+    "token": "",
+    "server": "",
+    "logo": "",
+
+    
+    
+    
+    "categorieticket": "",
+    "channelticket": "",
+    "logsticket": "",
+
+
+
+    "titrepanel" : "Ouverture de ticket",
+    "textepanel" : "Appuyez sur la réaction pour ouvrir un ticket",
+    "textebaspanel" : "La Zone by Xateox#4623",
+    "urlpanel": "https://www.twitch.tv/xateox_/",
+    "couleurpanel" : "#ff0000",
+
+
+    "labelboutonpanel" : "Ouvrir un ticket", 
+    "styleboutton" : "SUCCESS",
+
+
+
+    "ticketdejaouvert": "Vous avez déjà un ticket ouvert. Veuillez le fermer avant d'en ouvrir un nouveau."
+
+}
