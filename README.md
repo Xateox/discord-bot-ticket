@@ -1,5 +1,5 @@
 # discord-bot-ticket
-Bot discord pour ticket
+Bot discord pour ticket (V13)
 
 Version Node recommandé : v16.20.2
 
